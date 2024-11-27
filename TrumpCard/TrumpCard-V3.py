@@ -31,7 +31,7 @@ def rank_value(rank):
 # Main game logic
 def run():
 
-    ##my attempt on scoreboard
+    #Scoreboard
     player_score = 0
     opponents_score = 0
 
