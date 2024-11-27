@@ -22,6 +22,6 @@
 * Replay Prompt: After each round, the game returns to the start unless the player chooses to exit.
 
 # Key Additions in version 3
-* API Integration: Connected to [deckofcardsapi.com](https://deckofcardsapi.com) for card data
+* API Integration: Connected to [deckofcardsapi.com](https://deckofcardsapi.com) for card data.
 * Score Tracking: Implemented a basic scoreboard system, that displays player statistics when exiting the game.
   
